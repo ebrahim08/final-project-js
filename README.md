@@ -3,13 +3,13 @@ This is a simple command-line Rock-Paper-Scissors game written in Node.js.
 
 Prerequisites
 1. Node.js
-2. prompt-sync module
+2. readline-sync module
 
 
 # Installation
 1. Install Node.js: Download and install from Node.js official website.
 
-2. Install prompt-sync: Open your terminal and run:
+2. Install readline-sync: Open your terminal and run:
 
 
 
